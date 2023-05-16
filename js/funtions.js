@@ -62,5 +62,5 @@ function videoRelacionado(datos) {
     }
   }
   console.log(vacio);
-  document.getElementById("videosrela").innerHTML += vacio;
+  document.getElementById("videosrela").innerHTML = vacio;
 }
