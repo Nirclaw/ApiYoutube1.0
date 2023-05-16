@@ -12,7 +12,7 @@ export function obtenerid(datos) {
 export const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "125e4290femsh09c1b91ca1a0312p19f0afjsn9efde315ba2a",
+    "X-RapidAPI-Key": "bb8e432617msh584749006a0c716p1e6346jsnafbc89a35e18",
     "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
   },
 };
